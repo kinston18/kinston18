@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Twitter Badge](https://img.shields.io/badge/-@PrajjwalGoswami-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kinston_18)](https://twitter.com/kinston_18)
 <!--
 **kinston18/kinston18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
