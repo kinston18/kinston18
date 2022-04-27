@@ -6,6 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-mr.prajjwalji@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.prajjwalji@gmail.com)](mailto:mr.prajjwalji@gmail.com)
 [![Visits Badge](https://badges.pufler.dev/visits/kinston18/kinston18)](kinston18.dev)
 
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
+
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
