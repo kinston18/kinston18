@@ -11,6 +11,9 @@
 
 ## 💼 Skills
 
+**Languages**
+* <img src ="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" height=25>
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
