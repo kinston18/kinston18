@@ -26,9 +26,10 @@ Prajjwal Goswami, this side, an aspiring software developer, who also has some i
 
 
 **Tools**
-* <img src="https://img.shields.io/badge/Github-%234ea94b.svg?&style=for-the-badge&logo=Android&logoColor=white" height=25> <img src="https://img.shields.io/badge/VS code-%234ea94b.svg?&style=for-the-badge&logo=VSCode&logoColor=white" height=25>
 * ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-* ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=4AB197)![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+* ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=4AB197)![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+* ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
 
 
 
