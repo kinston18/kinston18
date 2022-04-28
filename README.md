@@ -6,6 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-mr.prajjwalji@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.prajjwalji@gmail.com)](mailto:mr.prajjwalji@gmail.com)
 [![Visits Badge](https://badges.pufler.dev/visits/kinston18/kinston18)](kinston18.dev)
 
+Prajjwal Goswami, this side, an aspiring software developer, who also has some interest in music🎵
+
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
 
 
