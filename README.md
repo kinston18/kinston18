@@ -60,14 +60,12 @@ Prajjwal Goswami, this side, an aspiring software developer, who also has some i
 </a>
  <h6>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most repository on Github as a public ones only .There are more repository in other languages(private too) other than the mentioned one as well but I had limited github metric to show max upto 8 languages. </h3>
 
-
-
 <br><br>
 <hr>
 <p align="center">
    <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
-    <a href="https://twitter.com/kinston18" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://twitter.com/kinston_18" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/prajjwal-goswami-b817571bb/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:mr.prajjwaljigmail.com" alt="Contact me"></a>
   </p>
