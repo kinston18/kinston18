@@ -1,16 +1,15 @@
-# Prajjwal Goswami
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Prajjwal Goswami</h1>
+<h3 align="center">I am a passionate Frontend developer, an aspiring software developer & a Cloud Computing enthusiast. Hsving hands-on experience of working of Google Cloud Platform  is hard-working and a proactive team-player with excellent time-management and multi-tasking abilities.  Currently pursuing B.tech IT from United College of Engineering & Research, Prayagraj. Also trying my hands on back-end technologies, databases and very curious to learn Blockchain in future.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinston18" alt="kinston18" /></a> </p>
+
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@PrajjwalGoswami-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kinston_18)](https://twitter.com/kinston_18)
 [![Linkedin Badge](https://img.shields.io/badge/-PrajjwalGoswami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajjwal-goswami-b817571bb/)](https://www.linkedin.com/in/prajjwal-goswami-b817571bb/)
 [![Gmail Badge](https://img.shields.io/badge/-mr.prajjwalji@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.prajjwalji@gmail.com)](mailto:mr.prajjwalji@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-PrajjwalGoswami-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kinston_18/?hl=en)](https://www.instagram.com/kinston_18/?hl=en)
 [![Visits Badge](https://badges.pufler.dev/visits/kinston18/kinston18)](kinston18.dev)
-
-Prajjwal Goswami, this side, an aspiring software developer, who also has some interest in music🎵
-
-
-
 
 ## 💼 Skills
 **Languages**
@@ -19,10 +18,10 @@ Prajjwal Goswami, this side, an aspiring software developer, who also has some i
 * <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height=25> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height=25> <img src ="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25> 
 
 * <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25> <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25> <img src="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" height=25>
-
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="60px" />  
 
 <br>
+
 **Frameworks**
 
 * <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height=25> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height=25> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=25> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
@@ -66,12 +65,13 @@ Prajjwal Goswami, this side, an aspiring software developer, who also has some i
   <p align="center">
     <a href="https://twitter.com/kinston_18" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/prajjwal-goswami-b817571bb/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:mr.prajjwaljigmail.com" alt="Contact me"></a>
+   <a href="mailto:mr.prajjwaljigmail.com" alt="Contact me"></a>
+   <a href="https://www.hackerrank.com/kinston18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kinston18" height="30" width="40" />
+   </a>
   </p>
   <p align="center">  
-     <img align="center" src="https://komarev.com/ghpvc/?username=kinston18"> 
-  </p>
-</p>
+     <img align="center" src="https://komarev.com/ghpvc/?username=kinston18">   </p>
+  
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
 
