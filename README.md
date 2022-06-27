@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajjwal Goswami</h1>
 <h3 align="center">I am a passionate Frontend developer, an aspiring software developer & a Cloud Computing enthusiast. Having hands-on experience of working of Google Cloud Platform  is hard-working and a proactive team-player with excellent time-management and multi-tasking abilities.  Currently pursuing B.tech IT from United College of Engineering & Research, Prayagraj. Also trying my hands on back-end technologies, databases and very curious to learn Blockchain in future.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinston18" alt="kinston18" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinston18" alt="kinston18"/></a> </p>-->
 
 
 
