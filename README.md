@@ -9,7 +9,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-PrajjwalGoswami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajjwal-goswami-b817571bb/)](https://www.linkedin.com/in/prajjwal-goswami-b817571bb/)
 [![Gmail Badge](https://img.shields.io/badge/-mr.prajjwalji@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.prajjwalji@gmail.com)](mailto:mr.prajjwalji@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-PrajjwalGoswami-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kinston_18/?hl=en)](https://www.instagram.com/kinston_18/?hl=en)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kinston18.visitor-badge&left_text=My%20Page%20Visitors)
+
+
+
+[![@kinston18's Holopin board](https://holopin.io/api/user/board?user=kinston18)](https://holopin.io/@kinston18)
 
 ## 💼 Skills
 **Languages**
