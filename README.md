@@ -1,15 +1,17 @@
 <h1 align="center">Hi👋 I'm Prajjwal Goswami</h1>
 <h3 align="center">I am a passionate Frontend developer, experienced in JavaScript libraries such as React, Angular and Vue, an aspiring software developer & a Cloud Computing enthusiast.<br><br> Having hands-on experience, working with the Google Cloud Platform, I'm a hard-working and a proactive team player with excellent time-management and multi-tasking abilities. I'm also trying my hands on back-end technologies, and databases, apart from this I'm very curious to learn about Blockchain networking in the near future.<br><br> Currently, I'm pursuing my Bachelors in Information Technology from United College of Engineering & Research, Prayagraj.</h3>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinston18" alt="kinston18"/></a> </p>-->
-
-
-
 [![Twitter Badge](https://img.shields.io/badge/-@PrajjwalGoswami-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kinston_18)](https://twitter.com/kinston_18)
 [![Linkedin Badge](https://img.shields.io/badge/-PrajjwalGoswami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajjwal-goswami-b817571bb/)](https://www.linkedin.com/in/prajjwal-goswami-b817571bb/)
 [![Gmail Badge](https://img.shields.io/badge/-mr.prajjwalji@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.prajjwalji@gmail.com)](mailto:mr.prajjwalji@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-PrajjwalGoswami-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kinston_18/?hl=en)](https://www.instagram.com/kinston_18/?hl=en)
-
+    
+<p align="center">
+    <a href="https://https://github.com/kinston18/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prajjwal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kinston18&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+ 
 
 
 [![@kinston18's Holopin board](https://holopin.io/api/user/board?user=kinston18)](https://holopin.io/@kinston18)
@@ -51,13 +53,14 @@
 
  ## GitHub Stats 
 
-<a href="https://github.com/kinston18">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinston18&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+ <br/>
+<a href="https://github.com/kinston18/github-readme-stats"><img alt="Prajjwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kinston18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/kinston18/github-readme-stats"><img alt="Prajjwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinston18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://github.com/kinston18">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kinston18&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Prajjwal's GitHub Stats" />
-</a>
+<br/>
+<br/>
  <h6>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most repository on Github as a public ones only .There are more repository in other languages(private too) other than the mentioned one as well but I had limited github metric to show max upto 8 languages. </h3>
 
 <br><br>
