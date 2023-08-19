@@ -2,6 +2,7 @@
 
 <h3 align="center">I am a passionate Frontend developer, experienced in JavaScript libraries such as React, Angular and Vue, an aspiring software developer & a Cloud Computing enthusiast.<br><br> Having hands-on experience, working with the Google Cloud Platform, I'm a hard-working and a proactive team player with excellent time-management and multi-tasking abilities. I'm also trying my hands on back-end technologies, and databases, apart from this I'm very curious to learn about Blockchain networking in the near future.<br><br> Currently, I'm pursuing my Bachelors in Information Technology from United College of Engineering & Research, Prayagraj.</h3>
 
+<br/>
 
 [![Twitter Badge](https://img.shields.io/badge/-@PrajjwalGoswami-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kinston_18)](https://twitter.com/kinston_18)
 [![Linkedin Badge](https://img.shields.io/badge/-PrajjwalGoswami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajjwal-goswami-b817571bb/)](https://www.linkedin.com/in/prajjwal-goswami-b817571bb/)
