@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋 I'm Prajjwal Goswami !!</h1> 
-<h3 align="center">I am a passionate Frontend developer, experienced in JavaScript libraries such as ReactJS, AngularJS, and VueJS, an aspiring software developer & a Cloud Computing enthusiast.<br><br> Having hands-on experience, working with the Google Cloud Platform, I'm a hard-working and a proactive team player with excellent time-management and multi-tasking abilities. I'm also trying my hands on back-end technologies and databases, apart from this I'm very curious to learn about Blockchain networking in the near future.<br><be> 
+<h3 align="center">Passionate software developer with a proven track record in optimizing web performance and user engagement. Achieved significant performance boosts and enhanced user experience. Eager to contribute to dynamic, fast-paced teams and drive innovation in software solutions<br><be> 
 <br/>   
 
 
