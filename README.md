@@ -2,7 +2,7 @@
 <h3 align="center">Passionate software developer with a proven track record in optimizing web performance and user engagement. Achieved significant performance boosts and enhanced user experience. Eager to contribute to dynamic, fast-paced teams and drive innovation in software solutions<br> 
 <br/>   
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="300px" width="400px" />  <br>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="300px" width="350px" />  <br>
 <br/>
 
 [![Twitter Badge](https://img.shields.io/badge/-@PrajjwalGoswami-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kinston_18)](https://twitter.com/kinston_18)
