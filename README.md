@@ -78,7 +78,7 @@
     <a href="https://twitter.com/kinston_18" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/prajjwal-goswami-b817571bb/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
    <a href="mailto:mr.prajjwaljigmail.com" alt="Contact me"></a>
-   <a href="https://www.hackerrank.com/kinston18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kinston18" height="30" width="40" />
+   <a href="https://leetcode.com/u/kinston18/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="kinston18" height="30" width="40" />
    </a>
   </p>
   <p align="center">  
