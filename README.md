@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋 I'm Prajjwal Goswami !!</h1> 
+<h1 align="center">Hello 👋 I'm Prajjwal Goswami !!</h1> 
 <h3 align="center">Passionate software developer with a proven track record in optimizing web performance and user engagement. Achieved significant performance boosts and enhanced user experience. Eager to contribute to dynamic, fast-paced teams and drive innovation in software solutions<br><be> 
 <br/>   
 
