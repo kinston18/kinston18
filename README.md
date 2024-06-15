@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 I'm Prajjwal Goswami !!</h1> 
-<h3 align="center">Passionate software developer with a proven track record in optimizing web performance and user engagement. Achieved significant performance boosts and enhanced user experience. Eager to contribute to dynamic, fast-paced teams and drive innovation in software solutions<br> 
+<h3 align="center">Passionate software developer with a proven track record in optimizing web performance and user engagement. Achieved significant performance boosts and enhanced user experience. Eager to contribute to dynamic, fast-paced teams and drive innovation in software solutions.<br> 
 <br/>   
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="250px" width="300px" />  <br>
